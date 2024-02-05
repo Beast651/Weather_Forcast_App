@@ -17,7 +17,7 @@ You can view a live demo of the Weather Forecast App https://weather-forecast651
 ## Features
 
 - **Current Weather:** Get real-time weather information for a specified location.
-- **7-Day Forecast:** Plan ahead with a 5-day weather forecast.
+- **5-Day Forecast:** Plan ahead with a 5-day weather forecast.
 - **Location Search:** Search for weather information by city or coordinates.
 
 ## Technologies Used
