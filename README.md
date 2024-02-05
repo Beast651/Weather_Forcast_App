@@ -1,6 +1,6 @@
 # Weather Forecast App
 
-Welcome to the Weather Forecast App! This web application provides current weather information and a 7-day forecast for a given location.
+Welcome to the Weather Forecast App! This web application provides current weather information and a 5-day forecast for a given location.
 
 ## Table of Contents
 
