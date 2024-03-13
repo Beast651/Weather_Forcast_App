@@ -9,7 +9,6 @@ Welcome to the Weather Forecast App! This web application provides current weath
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- 
 ## Demo
 
 You can view a live demo of the Weather Forecast App https://weather-forecast651.netlify.app
